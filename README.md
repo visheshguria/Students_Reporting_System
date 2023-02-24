@@ -2,7 +2,7 @@
 Students Reporting System  spring boot application
 
 
-![student-report-management-system-1620319712-577](https://user-images.githubusercontent.com/101393689/219922781-28e36295-e74a-470f-bbc7-8e3fd71a128b.png)
+![Students_reporting_System](https://user-images.githubusercontent.com/103636217/221101208-be3fbe60-1633-475e-8014-9db4b6f3e529.jpg)
 
 ## About
 This student management api build to manage the students records and Reports  in the database which make a hassle free management . 
@@ -59,14 +59,14 @@ This student management api build to manage the students records and Reports  in
 - ErrorDetails
 - GlobalException
 
-#### Classes in Repository packag
+#### Classes in Repository package
 
 - StudentRepo 
 
-#### Classes and Interfaces in Service packag
+#### Classes and Interfaces in Service package
 
-- StudentService(I)
-- StudentServiceImpl(C)
+- StudentService(Interface)
+- StudentServiceImpl(Class)
 
 ## Installation & Run
 - Before running the API server, you should update the database config inside the application.properties file.
