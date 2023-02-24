@@ -10,7 +10,7 @@ This student management api build to manage the students records and Reports  in
 
 ## Features
 
-- Student can be resistered
+- Student can be registered
 - User can see Average Percentage of whole class in recent semester
 - User can Average marks of Students in a subject
 - User Top 2 Consistent Students across all semesters (Maximum average marks)
